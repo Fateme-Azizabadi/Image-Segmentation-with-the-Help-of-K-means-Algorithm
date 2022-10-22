@@ -1,5 +1,5 @@
 # Image Segmentation with the Help of K-means Algorithm
-** Image Segmentation with the Help of K-means Algorithm**
+**Image Segmentation with the Help of K-means Algorithm**
 
 **In this project, we used the K-means algorithm to solve the image segmentation problem. In this problem, the goal is to separate the features of the image. We deal with a particular type of this problem: separation by image colors.**
 
@@ -26,7 +26,7 @@ Each iteration checks whether the centers have moved or if their displacement is
 
 ## **Result**
 
- ![](https://github.com/Fateme-Azizabadi/Image-Segmentation-with-the-Help-of-K-means-Algorithm/blob/main/Images/ponyo.png)
+ ![](https://github.com/Fateme-Azizabadi/Image-Segmentation-with-the-Help-of-K-means-Algorithm/blob/main/Images/ponyo.jpeg)
 
  ![](https://github.com/Fateme-Azizabadi/Image-Segmentation-with-the-Help-of-K-means-Algorithm/blob/main/Images/k1.png)
 
